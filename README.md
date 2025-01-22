@@ -11,3 +11,5 @@ Generates a random number between 1 and 100.
 The player has 5 attempts to guess the number.
 
 Provides feedback on whether the guess is too high or too low.
+
+you can find the full code in the game.java file.
